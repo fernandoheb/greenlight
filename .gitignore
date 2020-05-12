@@ -46,3 +46,4 @@ config/terms.md
 coverage*
 
 /atom-sftp-sync.json
+app/views/main/old-index.html.erb
